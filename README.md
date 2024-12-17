@@ -1,6 +1,6 @@
 # SRNet
 
-Unsupervised seismic reconstruction via deep learning with one-dimensional signal representation, which has been submitted to Computers \& Geosciences.
+This work has been submitted to Computers & Geosciences
 
 I provide my demo to reproduce my method
 
