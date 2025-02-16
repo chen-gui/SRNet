@@ -10,4 +10,5 @@ The demo I proposed requires: CUDA 12.7, Torch (CUDA) 12.1, Numpy 1.26.4, and Ma
 
 Moreover, I am grateful to the kan repository: https://github.com/Blealtan/efficient-kan.git 
 
+# SRNet
 
