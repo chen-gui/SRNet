@@ -1,12 +1,20 @@
-# SRNet
+# Description
 
-This work has been submitted to Computers & Geosciences
+This SRNet work for interpolation and denoising has been submitted to Computers & Geosciences
 
-I provide my demo to reproduce my method
+I provide my demos to reproduce this method
 
-If you want to use my code, please contact me using this E-mail: chenguicup@163.com, thank you so much!
+# Contact
+If you have any suggestions or questions, please contact me:
 
-The demo I proposed requires: CUDA 12.7, Torch (CUDA) 12.1, Numpy 1.26.4, and Matplotlib 3.9.2
+Gui Chen
 
-Moreover, I am grateful to the kan repository: https://github.com/Blealtan/efficient-kan.git 
+chenguicup@163.com
 
+thank you so much!
+
+# Dependence Packages
+
+The demos I proposed requires: 
+
+CUDA 12.7; Torch (CUDA) 12.1; Numpy 1.26.4; Matplotlib 3.9.2
